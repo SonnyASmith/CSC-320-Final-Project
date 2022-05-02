@@ -1,4 +1,4 @@
-__author__ = "Jason, Sonny, Matt, Jeremy"
+__author__ = "Jason, Sonny, Matt"
 __Copyright__ = "Copyright @2022"
 
 class circuit(object):              #Circuit Class
